@@ -4,13 +4,13 @@
 
 // URL do projeto Supabase
 // Substitua pelo endereço do seu projeto.
-const SUPABASE_URL = "https://olbqfchifxwcvjijmsac.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://olbqfchifxwcvjijmsac.supabase.co";
 
 
 // Chave pública do projeto
 // Utilize somente a chave pública destinada ao cliente.
 // NÃO coloque aqui a Service Role Key.
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9sYnFmY2hpZnh3Y3ZqaWptc2FjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTIyNDQ5ODksImV4cCI6MjEwNzgyMDk4OX0.KbAnj60cMuAfHQuthkLZI_x-VzZPPNqQlurKxqtR79k";
+const SUPABASE_ANON_KEY = "sb_publishable_Pb4naOi8G8p0sci8-r4Duw_5nzGbjAn";
 
 
 // Cria a conexão com o Supabase
